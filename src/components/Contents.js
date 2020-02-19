@@ -15,7 +15,8 @@ class Contents extends Component {
                             rel="noopener noreferrer"
                         >
                             <div className="img_area">
-                                <img src={movies[i].photo} alt=""/>
+                                {/* <img src={movies[i].photo} alt=""/> */}
+                                <img src={process.env.PUBLIC_URL + movies[i].photo} alt=""/>
                             </div>
                             <p>{movies[i].title}</p>
                             <div className="desc_area">
