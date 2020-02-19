@@ -51,6 +51,7 @@ class App extends Component {
             });
           }}
         ></Header>
+        <p>아래 이미지 왜안보여</p>
         <img src={process.env.PUBLIC_URL + '/images/5.jpg'} alt=""/>
         <Contents
           data={this.state.movies}
