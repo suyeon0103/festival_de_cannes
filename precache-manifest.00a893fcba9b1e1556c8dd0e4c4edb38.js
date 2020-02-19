@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20d949e1f21595031c722facf789c227",
+    "revision": "9e191a700baf8d36aa160f727143a259",
     "url": "/festival_de_cannes/index.html"
   },
   {
-    "revision": "845fc4bfe0c1e3912cf7",
+    "revision": "2e33172fd4a163dc4622",
     "url": "/festival_de_cannes/static/css/main.1273322f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/festival_de_cannes/static/js/2.59cefb43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "845fc4bfe0c1e3912cf7",
-    "url": "/festival_de_cannes/static/js/main.464ef797.chunk.js"
+    "revision": "2e33172fd4a163dc4622",
+    "url": "/festival_de_cannes/static/js/main.c7d344f6.chunk.js"
   },
   {
     "revision": "5d608e96cfc75b7d97a1",
