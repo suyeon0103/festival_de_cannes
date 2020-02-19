@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/festival_de_cannes/static/css/main.1273322f.chunk.css",
-    "main.js": "/festival_de_cannes/static/js/main.c1731dab.chunk.js",
-    "main.js.map": "/festival_de_cannes/static/js/main.c1731dab.chunk.js.map",
+    "main.js": "/festival_de_cannes/static/js/main.22bf48c8.chunk.js",
+    "main.js.map": "/festival_de_cannes/static/js/main.22bf48c8.chunk.js.map",
     "runtime-main.js": "/festival_de_cannes/static/js/runtime-main.69345819.js",
     "runtime-main.js.map": "/festival_de_cannes/static/js/runtime-main.69345819.js.map",
     "static/js/2.59cefb43.chunk.js": "/festival_de_cannes/static/js/2.59cefb43.chunk.js",
     "static/js/2.59cefb43.chunk.js.map": "/festival_de_cannes/static/js/2.59cefb43.chunk.js.map",
     "index.html": "/festival_de_cannes/index.html",
-    "precache-manifest.848140f2d8629d94322c78d2c641924a.js": "/festival_de_cannes/precache-manifest.848140f2d8629d94322c78d2c641924a.js",
+    "precache-manifest.fff6a71034a14f38a719aa42bf188d1e.js": "/festival_de_cannes/precache-manifest.fff6a71034a14f38a719aa42bf188d1e.js",
     "service-worker.js": "/festival_de_cannes/service-worker.js",
     "static/css/main.1273322f.chunk.css.map": "/festival_de_cannes/static/css/main.1273322f.chunk.css.map",
     "static/js/2.59cefb43.chunk.js.LICENSE.txt": "/festival_de_cannes/static/js/2.59cefb43.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.69345819.js",
     "static/js/2.59cefb43.chunk.js",
     "static/css/main.1273322f.chunk.css",
-    "static/js/main.c1731dab.chunk.js"
+    "static/js/main.22bf48c8.chunk.js"
   ]
 }

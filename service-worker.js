@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/festival_de_cannes/precache-manifest.848140f2d8629d94322c78d2c641924a.js"
+  "/festival_de_cannes/precache-manifest.fff6a71034a14f38a719aa42bf188d1e.js"
 );
 
 self.addEventListener('message', (event) => {
