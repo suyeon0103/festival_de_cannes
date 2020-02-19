@@ -51,6 +51,7 @@ class App extends Component {
             });
           }}
         ></Header>
+        <img src={process.env.PUBLIC_URL + '/images/5.jpg'} alt=""/>
         <Contents
           data={this.state.movies}
           selected_year={this.state.year}
